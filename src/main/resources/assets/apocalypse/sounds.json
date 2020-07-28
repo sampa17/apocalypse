@@ -1,0 +1,29 @@
+{
+  "ak47": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "apocalypse:ak12u",
+        "stream": false
+      }
+    ]
+  },
+  "glock": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "apocalypse:glock21",
+        "stream": false
+      }
+    ]
+  },
+  "missile": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "apocalypse:grenade-soundbible.com-1891951294",
+        "stream": false
+      }
+    ]
+  }
+}

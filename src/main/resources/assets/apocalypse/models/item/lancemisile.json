@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypse:custom/lance",
+  "textures": {
+    "0": "apocalypse:blocks/light_gray_concrete",
+    "1": "apocalypse:blocks/dark_gray_concrete"
+  }
+}

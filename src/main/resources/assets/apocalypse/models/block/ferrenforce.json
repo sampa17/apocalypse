@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "apocalypse:blocks/ironrenforced",
+    "up": "apocalypse:blocks/ironrenforced",
+    "north": "apocalypse:blocks/ironrenforced",
+    "east": "apocalypse:blocks/ironrenforced",
+    "south": "apocalypse:blocks/ironrenforced",
+    "west": "apocalypse:blocks/ironrenforced",
+    "particle": "apocalypse:blocks/ironrenforced"
+  }
+}

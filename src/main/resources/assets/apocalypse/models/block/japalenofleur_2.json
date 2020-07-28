@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "apocalypse:blocks/japalenosans",
+    "particle": "apocalypse:blocks/japalenosans"
+  }
+}

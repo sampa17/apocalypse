@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypse:custom/glock-17",
+  "textures": {
+    "2": "apocalypse:blocks/black_concrete",
+    "3": "apocalypse:blocks/dark_gray_concrete"
+  }
+}

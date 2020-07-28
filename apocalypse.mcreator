@@ -1,0 +1,483 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Glock",
+      "type": "gun",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glock"
+    },
+    {
+      "name": "Apoc",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "apoc"
+    },
+    {
+      "name": "Bulletglock",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bulletglock"
+    },
+    {
+      "name": "Ak47bullet",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ak_4_7bullet"
+    },
+    {
+      "name": "Ak47",
+      "type": "gun",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ak_4_7"
+    },
+    {
+      "name": "Prohorde",
+      "type": "procedure",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prohorde",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Prodeux",
+      "type": "procedure",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prodeux",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Prozombhorde",
+      "type": "procedure",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prozombhorde",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Caoutchouc",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caoutchouc"
+    },
+    {
+      "name": "Fleur",
+      "type": "plant",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fleur"
+    },
+    {
+      "name": "Japaleno",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "japaleno"
+    },
+    {
+      "name": "Japalenofleur2",
+      "type": "plant",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "japalenofleur_2"
+    },
+    {
+      "name": "Japalenofleur1",
+      "type": "plant",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "japalenofleur_1"
+    },
+    {
+      "name": "Japalenofleur1PlantRightClicked",
+      "type": "procedure",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "japalenofleur_1_plant_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "KitsoinRightClickedInAir",
+      "type": "procedure",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kitsoin_right_clicked_in_air",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Kitsoin",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kitsoin"
+    },
+    {
+      "name": "Craft",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "craft"
+    },
+    {
+      "name": "Rocket",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rocket"
+    },
+    {
+      "name": "LancemisileBulletHitsBlock",
+      "type": "procedure",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lancemisile_bullet_hits_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Lancemisile",
+      "type": "gun",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "lancemisile"
+    },
+    {
+      "name": "Pp",
+      "type": "procedure",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pp",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ferrenforce",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ferrenforce"
+    },
+    {
+      "name": "Recipeferr",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recipeferr"
+    },
+    {
+      "name": "Ironstick",
+      "type": "item",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ironstick"
+    },
+    {
+      "name": "Ironstickcraft",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ironstickcraft"
+    },
+    {
+      "name": "Ironladder",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ironladder"
+    },
+    {
+      "name": "Recipeladderiron",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recipeladderiron"
+    },
+    {
+      "name": "Pfleur",
+      "type": "procedure",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pfleur",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Barbel",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "barbel"
+    },
+    {
+      "name": "BarbelEntityCollidesInTheBlock",
+      "type": "procedure",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "barbel_entity_collides_in_the_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "ak47",
+      "file": "ak12u",
+      "category": "master"
+    },
+    {
+      "name": "glock",
+      "file": "glock21",
+      "category": "master"
+    },
+    {
+      "name": "missile",
+      "file": "grenade-soundbible.com-1891951294",
+      "category": "master"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.apocalypse.rocket": "Missile ",
+      "item.apocalypse.glock": "Glock-17",
+      "block.apocalypse.ferrenforce": "Fer renforcé",
+      "item.apocalypse.ak_4_7": "Ak-47",
+      "item.apocalypse.lancemisile": "Lance Missile",
+      "item.apocalypse.caoutchouc": "Caoutchouc",
+      "block.apocalypse.japalenofleur_1": "Fleur de Japaleno",
+      "block.apocalypse.japalenofleur_2": "Japaleno sans fleur",
+      "item.apocalypse.kitsoin": "Kit de soin",
+      "item.apocalypse.ak_4_7bullet": "Ak-47 Bullet",
+      "block.apocalypse.barbel": "Barbelelé ",
+      "itemGroup.tabapoc": "Apocalypse",
+      "item.apocalypse.bulletglock": "Glock-17 Bullet",
+      "block.apocalypse.fleur": "Fleur de caoutchouc",
+      "item.apocalypse.japaleno": "Japaleno",
+      "block.apocalypse.ironladder": "Echelle en Fer",
+      "item.apocalypse.ironstick": "Bâton De fer"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "apocalypse",
+    "modName": "apocalypse",
+    "version": "1.0.0",
+    "author": "sampa, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "apocalypse",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000322116
+}

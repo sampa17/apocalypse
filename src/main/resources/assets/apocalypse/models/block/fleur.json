@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "apocalypse:blocks/caf",
+    "particle": "apocalypse:blocks/caf"
+  }
+}

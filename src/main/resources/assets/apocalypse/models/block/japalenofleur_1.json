@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "apocalypse:blocks/jalapeno_plant_stage_7",
+    "particle": "apocalypse:blocks/jalapeno_plant_stage_7"
+  }
+}

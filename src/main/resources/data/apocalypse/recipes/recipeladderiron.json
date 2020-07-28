@@ -1,0 +1,36 @@
+{
+  "group": "apocalypse",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "apocalypse:ironstick"
+    },
+    "2": {
+      "item": "apocalypse:ironstick"
+    },
+    "3": {
+      "item": "apocalypse:ironstick"
+    },
+    "4": {
+      "item": "apocalypse:ironstick"
+    },
+    "5": {
+      "item": "apocalypse:ironstick"
+    },
+    "6": {
+      "item": "apocalypse:ironstick"
+    },
+    "8": {
+      "item": "apocalypse:ironstick"
+    }
+  },
+  "result": {
+    "item": "apocalypse:ironladder",
+    "count": 1
+  }
+}

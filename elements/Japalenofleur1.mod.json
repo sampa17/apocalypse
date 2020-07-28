@@ -1,0 +1,50 @@
+{
+  "_fv": 8,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "jalapeno_plant_stage_7",
+    "customModelName": "Cross model",
+    "plantType": "normal",
+    "growapableSpawnType": "Plains",
+    "growapableMaxHeight": 3,
+    "name": "Fleur de Japaleno",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Apoc"
+    },
+    "hardness": 0.0,
+    "resistance": 0.0,
+    "luminance": 0.0,
+    "unbreakable": false,
+    "soundOnStep": {
+      "value": "PLANT"
+    },
+    "customDrop": {
+      "value": "CUSTOM:Japalenofleur2"
+    },
+    "dropAmount": 1,
+    "forceTicking": false,
+    "isReplaceable": false,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
+    "offsetType": "XZ",
+    "aiPathNodeType": "DEFAULT",
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "frequencyOnChunks": 1,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "mountains"
+      }
+    ],
+    "onRightClicked": {
+      "name": "Japalenofleur1PlantRightClicked"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "apocalypse:custom/echelle",
+  "textures": {
+    "all": "apocalypse:blocks/ironn",
+    "particle": "apocalypse:blocks/ironn",
+    "0": "apocalypse:blocks/ironn"
+  }
+}

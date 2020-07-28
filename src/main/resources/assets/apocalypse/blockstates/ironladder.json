@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "apocalypse:block/ironladder"
+    },
+    "facing=east": {
+      "model": "apocalypse:block/ironladder",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "apocalypse:block/ironladder",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "apocalypse:block/ironladder",
+      "y": 270
+    }
+  }
+}

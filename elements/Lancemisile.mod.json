@@ -1,0 +1,39 @@
+{
+  "_fv": 8,
+  "_type": "gun",
+  "definition": {
+    "renderType": 1,
+    "texture": "missile",
+    "customModelName": "lance:default",
+    "name": "Lance Missile",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Apoc"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:Rocket"
+    },
+    "shootConstantly": false,
+    "usageCount": 100,
+    "actionSound": {
+      "value": "CUSTOM:missile"
+    },
+    "hasGlow": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 1.0,
+    "bulletDamage": 5.0,
+    "bulletKnockback": 5,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Rocket"
+    },
+    "bulletModel": "Modelcustom_model",
+    "customBulletModelTexture": "n.png",
+    "onBulletHitsBlock": {
+      "name": "LancemisileBulletHitsBlock"
+    }
+  }
+}

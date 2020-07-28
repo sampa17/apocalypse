@@ -1,0 +1,8 @@
+{
+  "parent": "apocalypse:custom/barbel",
+  "textures": {
+    "all": "apocalypse:blocks/barbele_texture",
+    "particle": "apocalypse:blocks/barbele_texture",
+    "1": "apocalypse:blocks/barbele_texture"
+  }
+}
