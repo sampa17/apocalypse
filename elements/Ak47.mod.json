@@ -3,8 +3,8 @@
   "_type": "gun",
   "definition": {
     "renderType": 1,
-    "texture": "ty",
-    "customModelName": "m16_model:default",
+    "texture": "ak_47",
+    "customModelName": "ak47mag:default",
     "name": "Ak-47",
     "specialInfo": [],
     "creativeTab": {

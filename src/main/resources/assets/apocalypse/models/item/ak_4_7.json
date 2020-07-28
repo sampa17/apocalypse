@@ -1,7 +1,4 @@
 {
-  "parent": "apocalypse:custom/m16_model",
-  "textures": {
-    "0": "apocalypse:blocks/gray_concrete",
-    "2": "apocalypse:blocks/dark_gray_concrete"
-  }
+  "parent": "apocalypse:custom/ak47mag",
+  "textures": {}
 }
