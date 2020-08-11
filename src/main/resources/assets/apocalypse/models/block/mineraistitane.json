@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "apocalypse:blocks/titaneore",
+    "up": "apocalypse:blocks/titaneore",
+    "north": "apocalypse:blocks/titaneore",
+    "east": "apocalypse:blocks/titaneore",
+    "south": "apocalypse:blocks/titaneore",
+    "west": "apocalypse:blocks/titaneore",
+    "particle": "apocalypse:blocks/titaneore"
+  }
+}

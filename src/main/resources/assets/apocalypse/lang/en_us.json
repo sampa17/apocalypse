@@ -1,9 +1,10 @@
 {
   "item.apocalypse.rocket": "Missile ",
   "item.apocalypse.glock": "Glock-17",
-  "block.apocalypse.ferrenforce": "Fer renforcé",
+  "block.apocalypse.ferrenforce": "Bloc de Titane",
   "item.apocalypse.ak_4_7": "Ak-47",
   "item.apocalypse.lancemisile": "Lance Missile",
+  "item.apocalypse.titaneingot": "Lingot de Titane",
   "item.apocalypse.caoutchouc": "Caoutchouc",
   "block.apocalypse.japalenofleur_1": "Fleur de Japaleno",
   "block.apocalypse.japalenofleur_2": "Japaleno sans fleur",
@@ -15,5 +16,6 @@
   "block.apocalypse.fleur": "Fleur de caoutchouc",
   "item.apocalypse.japaleno": "Japaleno",
   "block.apocalypse.ironladder": "Echelle en Fer",
+  "block.apocalypse.mineraistitane": "Minerais de Titane",
   "item.apocalypse.ironstick": "Bâton De fer"
 }

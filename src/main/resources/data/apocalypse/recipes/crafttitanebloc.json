@@ -1,0 +1,42 @@
+{
+  "group": "apocalypse",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "apocalypse:titaneingot"
+    },
+    "1": {
+      "item": "apocalypse:titaneingot"
+    },
+    "2": {
+      "item": "apocalypse:titaneingot"
+    },
+    "3": {
+      "item": "apocalypse:titaneingot"
+    },
+    "4": {
+      "item": "apocalypse:titaneingot"
+    },
+    "5": {
+      "item": "apocalypse:titaneingot"
+    },
+    "6": {
+      "item": "apocalypse:titaneingot"
+    },
+    "7": {
+      "item": "apocalypse:titaneingot"
+    },
+    "8": {
+      "item": "apocalypse:titaneingot"
+    }
+  },
+  "result": {
+    "item": "apocalypse:ferrenforce",
+    "count": 1
+  }
+}

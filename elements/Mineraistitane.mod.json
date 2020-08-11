@@ -2,12 +2,12 @@
   "_fv": 8,
   "_type": "block",
   "definition": {
-    "texture": "titanebloc",
-    "textureTop": "titanebloc",
-    "textureLeft": "titanebloc",
-    "textureFront": "titanebloc",
-    "textureRight": "titanebloc",
-    "textureBack": "titanebloc",
+    "texture": "titaneore",
+    "textureTop": "titaneore",
+    "textureLeft": "titaneore",
+    "textureFront": "titaneore",
+    "textureRight": "titaneore",
+    "textureBack": "titaneore",
     "renderType": 10,
     "customModelName": "Normal",
     "rotationMode": 0,
@@ -20,12 +20,10 @@
     "Mx": 1.0,
     "My": 1.0,
     "Mz": 1.0,
-    "name": "Bloc de Titane",
-    "specialInfo": [
-      "Utiliser dans les bunkers ."
-    ],
-    "hardness": 1.5,
-    "resistance": 80.0,
+    "name": "Minerais de Titane",
+    "specialInfo": [],
+    "hardness": 1.0,
+    "resistance": 10.0,
     "hasGravity": false,
     "creativeTab": {
       "value": "CUSTOM:Apoc"
@@ -41,7 +39,7 @@
     "canProvidePower": false,
     "lightOpacity": 255,
     "material": {
-      "value": "IRON"
+      "value": "ROCK"
     },
     "tickRate": 10,
     "tickRandomly": false,
@@ -59,7 +57,7 @@
     "reactionToPushing": "NORMAL",
     "isNotColidable": false,
     "soundOnStep": {
-      "value": "METAL"
+      "value": "STONE"
     },
     "luminance": 0.0,
     "unbreakable": false,
@@ -81,9 +79,24 @@
     "inventoryComparatorPower": true,
     "inventoryOutSlotIDs": [],
     "inventoryInSlotIDs": [],
-    "spawnWorldTypes": [],
+    "spawnWorldTypes": [
+      "Surface"
+    ],
     "restrictionBiomes": [],
-    "blocksToReplace": [],
+    "blocksToReplace": [
+      {
+        "value": "Blocks.DIAMOND_ORE"
+      },
+      {
+        "value": "Blocks.LAPIS_ORE"
+      },
+      {
+        "value": "Blocks.COAL_ORE"
+      },
+      {
+        "value": "Blocks.GOLD_ORE"
+      }
+    ],
     "frequencyPerChunks": 10,
     "frequencyOnChunk": 16,
     "minGenerateHeight": 0,

@@ -1,12 +1,12 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "apocalypse:blocks/ironrenforced",
-    "up": "apocalypse:blocks/ironrenforced",
-    "north": "apocalypse:blocks/ironrenforced",
-    "east": "apocalypse:blocks/ironrenforced",
-    "south": "apocalypse:blocks/ironrenforced",
-    "west": "apocalypse:blocks/ironrenforced",
-    "particle": "apocalypse:blocks/ironrenforced"
+    "down": "apocalypse:blocks/titanebloc",
+    "up": "apocalypse:blocks/titanebloc",
+    "north": "apocalypse:blocks/titanebloc",
+    "east": "apocalypse:blocks/titanebloc",
+    "south": "apocalypse:blocks/titanebloc",
+    "west": "apocalypse:blocks/titanebloc",
+    "particle": "apocalypse:blocks/titanebloc"
   }
 }
